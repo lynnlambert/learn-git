@@ -23,7 +23,7 @@ def get_city_coordinates():
 def get_icon_size():
     """ Choose a number of pixels to represent the size of the weather pic.
     """
-    size = ???
+    size = 300
     return size
 
 
